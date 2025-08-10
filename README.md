@@ -1,4 +1,7 @@
 ## Hi there 👋
+I’m a Computer Science Engineering (CSE) student passionate about building cool web projects and continuously learning new technologies.
+- 🌱 Currently learning more advanced web technologies and backend development.
+- 🔭 I’m currently working on improving my full-stack web development skills.
 
 <!--
 **Meghana-Yarlagadda/Meghana-Yarlagadda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
